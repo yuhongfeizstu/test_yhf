@@ -4,4 +4,4 @@
 需要修改php文件中数据库连接的代码
 $link = new mysqli("localhost","root","","test_yhf",3316);
 
-//github_url:https://github.com/yuhongfeizstu/test_yhf.git
+github_url:https://github.com/yuhongfeizstu/test_yhf.git
